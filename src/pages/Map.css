@@ -1,0 +1,10 @@
+.mapInputBox {
+  position: absolute;
+  width: 486px;
+  height: 471px;
+  left: 68px;
+  top: 161px;
+  background: #FFFFFF;
+  box-shadow: 0px 10px 20px -5px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}

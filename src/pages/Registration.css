@@ -1,0 +1,137 @@
+#line1R {
+  position: absolute;
+  width: 355px;
+  height: 0px;
+  left: 113px;
+  top: 225px;
+  border: 2px solid #E4E4E4;
+}
+#line2R {
+  position: absolute;
+  width: 355px;
+  height: 0px;
+  left: 113px;
+  top: 311px;
+  border: 2px solid #E4E4E4;
+}
+#line3R {
+  position: absolute;
+  width: 355px;
+  height: 0px;
+  left: 113px;
+  top: 397px;
+  border: 2px solid #E4E4E4;
+}
+.inputBox {
+  position: absolute;
+  width: 580px;
+  height: 631px;
+  left: 672px;
+  top: 239px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+.loginButton {
+  position: absolute;
+  width: 353px;
+  height: 61px;
+  left: 113px;
+  top: 447px;
+  background: #FDBF5A;
+  border-radius: 70px;
+  border-color: white;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  color: #000000;
+}
+.title {
+  position: absolute;
+  width: 221px;
+  height: 35px;
+  left: 179px;
+  top: 56px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #000000;
+}
+.bottomText {
+  position: absolute;
+  left: 155px;
+  top: 541px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
+.emailInputR {
+  position: absolute;
+  height: 19px;
+  left: 112px;
+  top: 164px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+}
+#emailR {
+  position: absolute;
+  left: 112px;
+  top: 193px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+}
+.passwordInputR {
+  position: absolute;
+  height: 19px;
+  left: 112px;
+  top: 336px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+}
+#passwordR {
+  position: absolute;
+  left: 112px;
+  top: 365px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+}
+.nameInput {
+  position: absolute;
+  height: 19px;
+  left: 112px;
+  top: 250px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+}
+#username {
+  position: absolute;
+  left: 112px;
+  top: 279px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+}

@@ -1,0 +1,158 @@
+.LoftLogoLogin {
+  position: absolute;
+  width: 136px;
+  height: 136px;
+  left: 174px;
+  top: 398px;
+}
+.LoftText {
+  position: absolute;
+  width: 192px;
+  left: 146px;
+  top: 556px;
+  font-family: UA_Blade_Runner;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 36px;
+  text-align: center;
+}
+.SideRectangle {
+  position: absolute;
+  width: 485px;
+  height: 1024px;
+  left: 0px;
+  top: 0px;
+  background: #1C1A19;
+}
+.loft {
+  color: #FFFFFF;
+}
+.taxi {
+  color: #FDBF5A;
+}
+.inputBox {
+  position: absolute;
+  width: 580px;
+  height: 541px;
+  left: 672px;
+  top: 239px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+.loginButton {
+  position: absolute;
+  width: 353px;
+  height: 61px;
+  left: 113px;
+  top: 373px;
+  background: #FDBF5A;
+  border-radius: 70px;
+  border-color: white;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  color: #000000;
+}
+.title {
+  position: absolute;
+  width: 221px;
+  height: 35px;
+  left: 179px;
+  top: 56px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #000000;
+}
+.bottomText {
+  position: absolute;
+  left: 155px;
+  top: 467px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
+.buttonRegistration {
+  color: #FDBF5A;
+  background-color: #FFFFFF;
+}
+.emailInput {
+  position: absolute;
+  height: 19px;
+  left: 112px;
+  top: 148px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+}
+#email {
+  position: absolute;
+  left: 112px;
+  top: 177px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+}
+.passwordInput {
+  position: absolute;
+  height: 19px;
+  left: 112px;
+  top: 234px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+}
+#password {
+  position: absolute;
+  left: 112px;
+  top: 263px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+}
+.remindPass {
+  position: absolute;
+  width: 124px;
+  height: 19px;
+  left: 343px;
+  top: 308px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #828282;
+}
+#line1 {
+  position: absolute;
+  width: 355px;
+  height: 0px;
+  left: 112px;
+  top: 209px;
+  border: 2px solid #E4E4E4;
+}
+#line2 {
+  position: absolute;
+  width: 355px;
+  height: 0px;
+  left: 112px;
+  top: 295px;
+  border: 2px solid #E4E4E4;
+}
