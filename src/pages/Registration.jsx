@@ -2,6 +2,7 @@ import React from 'react'
 import { Sideheader } from '../components/Sideheader'
 import { BigButton } from '../components/Button'
 import './Registration.css'
+import PropTypes from 'prop-types'
 
 export const Registration = (props) => {
   return (
@@ -27,3 +28,6 @@ export const Registration = (props) => {
     </>
   )
 }
+Registration.propTypes = {
+  navigate: PropTypes.func
+};

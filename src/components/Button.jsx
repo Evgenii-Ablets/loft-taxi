@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 
 export const BigButton = (props) => {
   return (
@@ -9,4 +10,10 @@ export const BigButton = (props) => {
       {props.text}
     </button>
   )
+}
+BigButton.propTypes = {
+  className: PropTypes.string,
+  page: PropTypes.string,
+  navigate: PropTypes.func,
+  text: PropTypes.string
 }
